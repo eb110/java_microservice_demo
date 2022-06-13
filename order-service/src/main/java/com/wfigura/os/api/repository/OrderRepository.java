@@ -1,6 +1,6 @@
-package com.wfigura.os.repository;
+package com.wfigura.os.api.repository;
 
-import com.wfigura.os.entity.Order;
+import com.wfigura.os.api.entity.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 //Order -> type of data, Integer -> type of primary key
